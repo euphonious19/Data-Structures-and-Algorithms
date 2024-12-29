@@ -1,4 +1,3 @@
-package LoopsQues;
 import java.util.* ;
 
 public class FactorialOfNumber {
